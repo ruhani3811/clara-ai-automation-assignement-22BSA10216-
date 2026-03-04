@@ -1,0 +1,6 @@
+{
+  "agent_name": "ABC Fire Protection AI Assistant",
+  "voice_style": "professional",
+  "version": "v1",
+  "system_prompt": "You are the phone assistant..."
+}

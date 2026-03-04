@@ -1,0 +1,9 @@
+{
+  "name": "clara-demo-workflow",
+  "nodes": [
+    "manual trigger",
+    "read transcript",
+    "run python extraction",
+    "save outputs"
+  ]
+}

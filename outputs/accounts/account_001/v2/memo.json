@@ -1,0 +1,15 @@
+{
+  "account_id": "account_001",
+  "company_name": "ABC Fire Protection",
+  "business_hours": "",
+  "office_address": "",
+  "services_supported": [
+    "sprinkler",
+    "alarm"
+  ],
+  "emergency_definition": [],
+  "questions_or_unknowns": [
+    "emergency_definition"
+  ],
+  "notes": "generated from demo transcript"
+}
